@@ -1,0 +1,9 @@
+Package: com.gilshahar7.redditcollapse
+Name: RedditCollapse
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Swipe to collapse comments in the Reddit app.
+Maintainer: gilshahar7
+Author: gilshahar7
+Section: Tweaks
